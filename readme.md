@@ -18,6 +18,9 @@ Short demo of the new IAsyncEnumerable feature in C# 8.0.
     <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 ```
-* Install system.linq.async package to project. Example:
+* Install system.linq.async package to project. 
+
+Example:
+
 dotnet add package System.Linq.Async -v 4.0.0-preview.6.build.801
 
